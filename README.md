@@ -21,3 +21,9 @@ The Docker-Compose pipeline includes five containers. With the following folder 
 - creates a Slackbot that post a randomly selected anonymized tweet from the Postgres database into a Slack channel.
 
 Pipeline folder including the docker-compose.yml is [here](docker_compose).
+
+## Acknowledgements
+
+The tweet_collector.py is taken from [Paul Wlodkowski](https://github.com/pawlodkowski)'s [twitter-mongoDB](https://github.com/pawlodkowski/twitter-mongoDB) repository.
+
+The while loop in the slackbot.py is adopted from [Krystana Föh](https://github.com/Krystana)'s code.
