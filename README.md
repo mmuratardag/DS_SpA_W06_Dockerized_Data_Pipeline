@@ -26,4 +26,4 @@ Pipeline folder including the docker-compose.yml is [here](docker_compose).
 
 The tweet_collector.py is taken from [Paul Wlodkowski](https://github.com/pawlodkowski)'s [twitter-mongoDB](https://github.com/pawlodkowski/twitter-mongoDB) repository.
 
-The while loop in the slackbot.py is adopted from [Krystana Föh](https://github.com/Krystana)'s code.
+Various code snipplets in tweet_collector.py and slackbot.py are adopted from [Krystana Föh](https://github.com/Krystana)'s code.
